@@ -1,2 +1,2 @@
 ## How to use
-   - Run the script: ```python3 WhichSystem.py```
+   - Run the script: ```./WhichSystem.ps1```
